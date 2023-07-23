@@ -1,5 +1,5 @@
 # GearTrove
-r
+
 Musician Inventory Application
 
 Full CRUD capabilities, REST API 
