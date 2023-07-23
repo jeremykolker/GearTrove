@@ -1,4 +1,4 @@
-# GearTrove
+# GearTrovee
 
 Musician Inventory Application
 
