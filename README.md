@@ -1,4 +1,5 @@
-# GearTrove App
+# GearTroves
+App
 
 
 
